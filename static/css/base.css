@@ -1,0 +1,86 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color:#000!important;
+  text-decoration: none;
+}
+
+.active {
+  background-image: linear-gradient(90deg, #4299f1 0%, #56d8fe 100%);
+  opacity: 0.9;
+  color: #fff!important;
+}
+li{
+  list-style: none;
+}
+.ivu-tabs-nav-scroll {
+  background-color: #fff;
+}
+.ivu-table th,
+.ivu-table td {
+  text-align: center;
+  border-right: 1px solid #e8eaec;
+}
+.ivu-page {
+  margin-top: 30px;
+}
+
+.ivu-table-header th {
+  background-color: #48adf5 !important;
+  width: 100%;
+  height: 100%;
+}
+
+.ivu-table-row {
+  width: 100%;
+}
+
+.ivu-tabs-tab-active {
+  background-color: #e8eaec;
+}
+
+input::-webkit-input-placeholder {
+  color: #e8eaec;
+}
+
+input::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #e8eaec;
+}
+
+input:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #e8eaec;
+}
+
+input:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #e8eaec;
+}
+.blueColor{
+  background-color: #fff;
+}
+canvas{
+  font-size:14px;
+}
+.ivu-select-dropdown{
+  left:2px!important;
+
+}
+.ivu-progress-inner{
+  height: 25px;
+}
+.ivu-progress-bg{
+  height: 25px!important;
+}
+.ivu-btn-primary{
+  background-color: #52cefc!important;
+  border-color:#52cefc!important;
+ 
+}
